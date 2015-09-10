@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 18, 2014, 10:18:15 AM
+    Author     : Mancha
+*/
+
+div#contentInfoWindow, div.contentMap{
+    max-width: 220px;
+}
+.contentImg{
+    text-align: center;
+}
+.contentImg img{
+    width: 95%;
+    text-align: center;
+}
+.contentTxt{
+    text-align: justify;
+}
+
+.contentTxt > p{
+    font-size: 0.9em;
+}
+.contentTxt>h2{
+    text-align: center;
+    font-size: 1.2em;
+}
